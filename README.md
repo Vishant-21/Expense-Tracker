@@ -1,5 +1,9 @@
 # SpendWise - Expense Tracker
 
+**Live demo:** https://expense-tracker-zeta-five-92.vercel.app
+
+> The server runs on a free plan, so the first load can take about 50 seconds while it wakes up.
+
 A full-stack MERN expense tracker with budgets, charts, search and filters, dark and light themes, and a mobile-friendly layout.
 
 ## Demo account
